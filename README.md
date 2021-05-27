@@ -1,2 +1,3 @@
 # loan-calculator
-UI 
+UI - using html and bootstrap
+Javascript for calculation
